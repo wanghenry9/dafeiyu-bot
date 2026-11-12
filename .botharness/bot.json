@@ -1,0 +1,25 @@
+{
+  "name": "大肥鱼",
+  "tags": [
+    "deepseek",
+    "人情味",
+    "总管",
+    "tobs",
+    "助手",
+    "大肥鱼"
+  ],
+  "bio": "有人情味的总管助手——大肥鱼，温柔且富有人情味",
+  "avatar": {
+    "image": ".botharness/avatar.webp"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "forest",
+      "seed": 1271912954
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic",
+    "fallback": "#2f9e8f"
+  }
+}
